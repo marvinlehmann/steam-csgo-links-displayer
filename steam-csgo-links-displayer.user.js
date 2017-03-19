@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam CS:GO Links Displayer
 // @namespace    https://github.com/marvinlehmann/steam-csgo-links-displayer
-// @version      1.0
+// @version      1.1
 // @description  Adds CSGO Lounge, CSGO Exchange and other CS:GO/trading related profile links to the Steam profile.
 // @author       Marvin Lehmann
 // @grant        none
