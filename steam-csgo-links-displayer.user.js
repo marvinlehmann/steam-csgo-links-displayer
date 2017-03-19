@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Steam CS:GO Links Displayer
-// @namespace    https://github.com/marvinl97/steam-csgo-links-displayer
+// @namespace    https://github.com/marvinlehmann/steam-csgo-links-displayer
 // @version      1.0
 // @description  Adds CSGO Lounge, CSGO Exchange and other CS:GO/trading related profile links to the Steam profile.
-// @author       Marvin Lehmann (marvinl97)
+// @author       Marvin Lehmann
 // @grant        none
 // @include      /https?://steamcommunity\.com/id/\w+/?$/
 // @include      /https?://steamcommunity\.com/profiles/[0-9]+/?$/
 // @require      http://code.jquery.com/jquery-latest.js
-// @downloadURL  http://raw.githubusercontent.com/marvinl97/steam-csgo-links-displayer/master/steam-csgo-links-displayer.user.js
-// @supportURL   http://github.com/marvinl97/steam-csgo-links-displayer/issues
+// @downloadURL  http://raw.githubusercontent.com/marvinlehmann/steam-csgo-links-displayer/master/steam-csgo-links-displayer.user.js
+// @supportURL   http://github.com/marvinlehmann/steam-csgo-links-displayer/issues
 // ==/UserScript==
 this.$ = this.jQuery = jQuery.noConflict(true);
 
