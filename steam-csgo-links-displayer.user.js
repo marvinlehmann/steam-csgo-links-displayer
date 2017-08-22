@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam CS:GO Links Displayer
 // @namespace    https://github.com/marvinlehmann/steam-csgo-links-displayer
-// @version      1.1
+// @version      1.2
 // @description  Adds CSGO Lounge, CSGO Exchange and other CS:GO/trading related profile links to the Steam profile.
 // @author       Marvin Lehmann
 // @grant        none
@@ -30,7 +30,7 @@ $(document).ready(function() {
       '</a>' +
     '</div>' +
 	'<div class="profile_count_link">' +
-      '<a href="http://www.csgozone.net/#check?id=' + window.g_rgProfileData["steamid"] + '">' +
+      '<a href="http://www.csgozone.net/check?id=' + window.g_rgProfileData["steamid"] + '">' +
         '<span class="count_link_label">CS:GO Zone Profile</span>' +
         '&nbsp;' +
         '<span class="profile_count_link_total"><img src="http://www.csgozone.net/favicon.png" style="width: 16px; height:16px"></span>' +
